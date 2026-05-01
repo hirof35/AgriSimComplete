@@ -64,3 +64,4 @@ SaveData.cs: 永続化のためのデータモデル。
 このプロジェクトは MITライセンス の下で公開されています。
 
 土を耕し、知恵を絞り、最高の農場を築き上げましょう！
+<img width="1035" height="920" alt="スクリーンショット 2026-05-01 121747" src="https://github.com/user-attachments/assets/fdb80069-262e-477a-8553-baf51d3fb122" />
